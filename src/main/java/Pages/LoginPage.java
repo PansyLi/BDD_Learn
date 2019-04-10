@@ -41,16 +41,16 @@ public class LoginPage extends Page{
     public void login163Mail() throws IOException, InterruptedException {
         driver.get(TestConfig.valueFor("app.url"));
         wait.until(ExpectedConditions.visibilityOf(logo));
-        ThreadSleep.threadSleep();
+        ThreadSleep.threadSleep(2000);
         driver.switchTo().frame(driver.findElement(By.xpath("//div[@id='loginDiv']/iframe")));
         username.clear();
         username.sendKeys(TestConfig.valueFor("username"));
         password.sendKeys(TestConfig.valueFor("password"));
         login_button.click();
-        ThreadSleep.threadSleep();
+        ThreadSleep.threadSleep(2000);
     }
     public void loginAssert(){
-        if (writeLetter.isDisplayed() == true){
+        if (writeLetter.isDisplayed()){
             log.info("login 163 mail successfully!\n");
         } else {
             log.error("Login Failed :-(\n");

@@ -9,11 +9,12 @@ import org.junit.BeforeClass;
 import org.junit.runner.RunWith;
 
 import java.io.File;
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
         plugin={"com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:target/extent-report/report.html"}
         ,format = {"pretty", "html:target/cucumber", "json:target/cucumber.json"}
-        ,features = "src/test/resources/features"
+        ,features = "src/test/resources/features/"
         ,glue={ "src/test/stepDefinition/testSteps","src/main/java/browsers"})
 public class RunCucumberTest extends AbstractTestNGCucumberTests {
     @BeforeClass
@@ -29,3 +30,15 @@ public class RunCucumberTest extends AbstractTestNGCucumberTests {
         Reporter.setTestRunnerOutput("Sample test runner output message");
     }
 }
+
+/*import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(
+        plugin = {"pretty", "html:target/cucumber"}
+        ,format = {"pretty", "html:target/cucumber", "json:target/cucumber.json"}
+        ,features = "src/test/resources/features"
+        ,glue={ "src/test/stepDefinition/testSteps","src/main/java/browsers"})
+public class RunCucumberTest(){}*/

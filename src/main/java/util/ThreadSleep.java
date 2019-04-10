@@ -2,8 +2,9 @@ package util;
 
 public class ThreadSleep {
 
-    public static void  threadSleep() throws InterruptedException {
-        long start = System.currentTimeMillis();
-        Thread.sleep(2000);
+    public static void  threadSleep(int timeSecond) throws InterruptedException {
+
+        Thread.sleep(timeSecond);
+
     }
 }
