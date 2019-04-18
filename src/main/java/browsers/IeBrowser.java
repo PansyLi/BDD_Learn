@@ -11,7 +11,6 @@ public class IeBrowser extends InternetExplorerDriver{
     public static WebDriver configuredIeBrowser() throws Throwable{
         DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
         capabilities.setCapability("ignoreZoomSetting",true);
-
         System.setProperty("webdriver.ie.driver",TestConfig.valueFor("IeDriverPath"));
         IeBrowser browser = new IeBrowser(capabilities);
         browser.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);

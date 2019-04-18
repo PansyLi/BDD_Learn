@@ -2,32 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b70ef082-55bb-4758-83b7-c638f20b40fe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/LogEventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_4_0_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_cucumber_extentsreport_3_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_cucumber_extentsreport_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ThreadSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ThreadSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_00_06_00_33.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_01_12_01_58.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_05_06_05_40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_05_12_05_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_08_12_08_21.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_09_05_09_26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_09_12_09_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_11_05_11_41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_11_06_11_43.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_12_06_12_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_16_12_16_32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_20_06_20_31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_24_05_24_55.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_28_06_28_13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_37_11_37_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_38_06_38_11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_40_11_40_52.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_44_05_44_16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_44_11_44_24.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_47_05_47_35.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_51_11_51_19.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_56_05_56_50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/WriteLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/BrowserFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/ChromeBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/FirefoxBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/IeBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/SafariBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/browsers/ShareDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/SmartRobot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config/TestConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/GetCurrentTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/ThreadSleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RunCucumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testSteps/SendEmailStepdefs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,111 +78,109 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/LoginPage.java">
+      <file leaf-file-name="ShareDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-216">
-              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="309">
+              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#2243#2244#0" expanded="true" />
+                <element signature="e#2289#2290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShareDriver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="315">
+              <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunCucumberTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2449#2450#0" expanded="true" />
-                <element signature="e#2495#2496#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrowserFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IeBrowser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogEventListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/LogEventListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extent-config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/extent-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="798">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="RunCucumberTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GetCurrentTime.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/GetCurrentTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadSleep.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/ThreadSleep.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Send_email.feature" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/Send_email.feature">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/System.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="352" column="47" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WriteLetter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Pages/WriteLetter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SendEmailStepdefs.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/SendEmailStepdefs.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -182,6 +199,8 @@
     <findStrings>
       <find>error</find>
       <find>class</find>
+      <find>find</find>
+      <find>WebDriverEventListener</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -211,7 +230,6 @@
         <option value="$PROJECT_DIR$/src/main/java/config/SmartRobert.java" />
         <option value="$PROJECT_DIR$/src/main/java/config/SmartRobot.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/Pages.java" />
-        <option value="$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/browsers/SafariBrowser.java" />
         <option value="$PROJECT_DIR$/src/main/java/browsers/ChromeBrowser.java" />
         <option value="$PROJECT_DIR$/src/main/java/config/TestConfig.java" />
@@ -219,18 +237,22 @@
         <option value="$PROJECT_DIR$/src/test/stepDefinition/Stepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/stepDefinition/testSteps/Stepdefs.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/Page.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/extent-config.xml" />
         <option value="$PROJECT_DIR$/src/main/java/util/ExtentTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/src/test/resources/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/stepDefinition/testSteps/SendEmailStepdefs.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pages/WriteLetter.java" />
-        <option value="$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/Send_email.feature" />
-        <option value="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/ThreadSleep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/util/LogEventListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/test.iml" />
+        <option value="$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java" />
       </list>
     </option>
   </component>
@@ -274,10 +296,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="276" />
-    <option name="y" value="236" />
-    <option name="width" value="1130" />
-    <option name="height" value="618" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -286,8 +306,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -390,6 +408,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -441,7 +461,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.All Features in: test">
+  <component name="RunManager" selected="TestNG.RunCucumberTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -572,8 +592,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.All Features in: test" />
         <item itemvalue="TestNG.RunCucumberTest" />
+        <item itemvalue="Cucumber java.All Features in: test" />
         <item itemvalue="Cucumber java.Scenario: Email send successfully" />
         <item itemvalue="Cucumber java.Feature: is_it_friday_yet (1)" />
         <item itemvalue="Cucumber java.All Features in: main" />
@@ -591,44 +611,45 @@
       <option name="presentableId" value="Default" />
       <updated>1553363048655</updated>
       <workItem from="1553363053066" duration="34504000" />
-      <workItem from="1554289130508" duration="27117000" />
+      <workItem from="1554289130508" duration="34430000" />
+      <workItem from="1555599956108" duration="7254000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_Features_in__test - 2019.04.06 at 12h 09m 54s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.06 at 12h 16m 33s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.06 at 12h 18m 13s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.06 at 13h 13m 27s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.07 at 22h 09m 03s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="RunCucumberTest - 2019.04.07 at 22h 09m 50s.xml">
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 04m 17s.xml">
       <configuration name="RunCucumberTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.04.07 at 22h 22m 31s.xml">
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 05m 51s.xml">
       <configuration name="RunCucumberTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="RunCucumberTest - 2019.04.07 at 22h 22m 43s.xml">
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 08m 14s.xml">
       <configuration name="RunCucumberTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.07 at 22h 24m 35s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 08m 52s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="All_Features_in__test - 2019.04.11 at 03h 39m 24s.xml">
-      <configuration name="All Features in: test" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 10m 20s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 16m 10s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 16m 58s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 17m 06s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 21m 31s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RunCucumberTest - 2019.04.19 at 01h 22m 23s.xml">
+      <configuration name="RunCucumberTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61621000" />
+    <option name="totallyTimeSpent" value="76188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -641,23 +662,23 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50072044" side_tool="true" weight="0.33706468" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.23126802" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.3054755" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.44278607" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3299712" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23134328" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.34701493" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4477612" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25720462" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25792506" />
       <window_info anchor="right" id="Database" order="6" weight="0.3299712" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46002805" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46002805" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3299712" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -673,7 +694,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -681,31 +702,59 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30528">
-          <caret line="2518" selection-start-line="2518" selection-end-line="2518" />
+        <state relative-caret-position="171">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Preconditions.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/events/AbstractWebDriverEventListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        <state relative-caret-position="570">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1.jar!/cucumber/api/TestStep.class">
+    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/SendEmailStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="190">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.1/selenium-remote-driver-2.53.1-sources.jar!/org/openqa/selenium/remote/service/DriverService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ChromeBrowser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        <state relative-caret-position="57">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/LogEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="104" column="12" selection-start-line="104" selection-start-column="12" selection-end-line="104" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -724,37 +773,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/SmartRobert.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/SafariBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.1/selenium-api-2.53.1-sources.jar!/org/openqa/selenium/remote/DesiredCapabilities.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-603">
           <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/FirefoxBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,27 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ChromeBrowser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1.jar!/cucumber/api/Scenario.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1-sources.jar!/cucumber/api/Scenario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -800,48 +805,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="45" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/emailable-report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/passed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/surefire-reports/RunCucumberTest/Command line test.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/failure-reports/-Today is or is not Friday_2019_48_08_48_44.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/failure-reports/-Today is or is not Friday_2019_18_11_18_24.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/index.html" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/RunCucumberTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#1398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/features/is_it_friday_yet.feature">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1-sources.jar!/cucumber/runtime/ScenarioImpl.java">
@@ -851,41 +816,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/failure-reports/-Today is or is not Friday_2019_07_04_07_54.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/extent-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExtentTestNGIReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/is_it_friday_yet.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/Stepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExtentTestNGIReporterListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/is_it_friday_yet.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/Stepdefs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Pages/Page.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -903,47 +836,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_54_04_54_31.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="76" column="50" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/extent-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/config/SmartRobot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/events/EventFiringWebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="67" column="24" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
-          <folding>
-            <element signature="e#12534#12535#0" expanded="true" />
-            <element signature="e#12576#12577#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -960,9 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/failure-reports/-Email send successfully_2019_56_05_56_50.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/Send_email.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -970,59 +865,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/SendEmailStepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/GetCurrentTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2449#2450#0" expanded="true" />
-            <element signature="e#2495#2496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1035,8 +881,199 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/ThreadSleep.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/FirefoxBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/SafariBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/ui/ExpectedConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2856">
+          <caret line="284" selection-start-line="284" selection-end-line="284" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/events/EventFiringWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.1/selenium-remote-driver-2.53.1-sources.jar!/org/openqa/selenium/remote/ErrorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/events/AbstractWebDriverEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/testSteps/SendEmailStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ChromeBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/2.3.1/cucumber-core-2.3.1-sources.jar!/cucumber/api/Scenario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.1/selenium-support-2.53.1-sources.jar!/org/openqa/selenium/support/events/WebDriverEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="154" column="19" selection-start-line="154" selection-start-column="7" selection-end-line="154" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/ShareDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2243#2244#0" expanded="true" />
+            <element signature="e#2289#2290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/extent-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/extent-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/LogEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/browsers/IeBrowser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/stepDefinition/RunCucumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

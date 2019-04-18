@@ -2,10 +2,13 @@
 /Users/pansy/Dev/Project2/test/src/main/java/browsers/SafariBrowser.java
 /Users/pansy/Dev/Project2/test/src/main/java/Pages/Page.java
 /Users/pansy/Dev/Project2/test/src/main/java/browsers/ChromeBrowser.java
+/Users/pansy/Dev/Project2/test/src/main/java/util/LogEventListener.java
+/Users/pansy/Dev/Project2/test/src/main/java/util/GetCurrentTime.java
+/Users/pansy/Dev/Project2/test/src/main/java/config/SmartRobot.java
+/Users/pansy/Dev/Project2/test/src/main/java/util/ThreadSleep.java
 /Users/pansy/Dev/Project2/test/src/main/java/browsers/FirefoxBrowser.java
 /Users/pansy/Dev/Project2/test/src/main/java/browsers/IeBrowser.java
-/Users/pansy/Dev/Project2/test/src/main/java/util/GetCurrentTime.java
 /Users/pansy/Dev/Project2/test/src/main/java/browsers/ShareDriver.java
-/Users/pansy/Dev/Project2/test/src/main/java/config/SmartRobot.java
 /Users/pansy/Dev/Project2/test/src/main/java/config/TestConfig.java
 /Users/pansy/Dev/Project2/test/src/main/java/Pages/LoginPage.java
+/Users/pansy/Dev/Project2/test/src/main/java/Pages/WriteLetter.java

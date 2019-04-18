@@ -7,14 +7,12 @@ public class BrowserFactory {
     public static WebDriver configuredBrowser() throws Throwable{
         String desiredBrowser = null;
         String op_env = System.getProperty("os.name","Mac OS X");
-        System.out.println("op_env = "+op_env+"\n");
         if (op_env.equals("Mac OS X")){
 
             desiredBrowser = TestConfig.valueFor("BrowserType");
         }
         else {
             desiredBrowser = System.getProperty("browser","");
-
         }
         WebDriver selectedDriver = null;
         switch (desiredBrowser){
